@@ -1,2 +1,2 @@
 # Demo
-omdb-api-movie.netlify.app
+https://omdb-api-movie.netlify.app
